@@ -1,0 +1,15 @@
+$ git clone "https://github.com/mongaanuj47/MAD314-CV-1896190" 
+   It will make a clone whoes name is MAD314-CV-1896190 of mongaanuj47 username 
+$ cd MAD314-CV-1896190
+   It will change the working directory to MAD314-CV-1896190
+$ git pull "https://github.com/richbighouse/mad-314-cv-assignment"
+   It will copy all the files of the directory mad-314-cv-assignment
+$ cd .> remote.txt
+   It will create a text file whose name is remote
+$ git add -A
+   It will move all the files to modified state
+$ git commit -m "new message"
+   It will commit the files which is in modified state
+$ git push
+   It will upload the data from our computern to online repository 
+    
